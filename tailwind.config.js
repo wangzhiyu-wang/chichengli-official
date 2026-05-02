@@ -8,11 +8,11 @@ export default {
     extend: {
       colors: {
         brand: {
-          orange: '#FF6B35',
-          deep: '#E85A2D',
-          cream: '#FFF8F0',
-          warm: '#F5E6D3',
-          dark: '#1A1A1A',
+          red: '#E53935',
+          gold: '#D4A574',
+          dark: '#0A0A0A',
+          card: 'rgba(26,26,26,0.6)',
+          border: 'rgba(255,255,255,0.08)',
         }
       },
       fontFamily: {
